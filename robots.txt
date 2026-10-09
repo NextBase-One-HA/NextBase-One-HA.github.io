@@ -1,0 +1,13 @@
+User-agent: OAI-SearchBot
+Allow: /nextbase-world/
+
+User-agent: GPTBot
+Disallow: /nextbase-world/
+
+User-agent: Google-Extended
+Disallow: /nextbase-world/
+
+User-agent: *
+Allow: /nextbase-world/
+
+Sitemap: https://nextbase-one-ha.github.io/nextbase-world/sitemap.xml
